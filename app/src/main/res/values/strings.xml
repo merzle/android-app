@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Workpackage Lasse</string>
+    <string name="picture_button">Take Picture</string>
+    <string name="text_Hello_World">Hello World!</string>
+    <string name="no_camer_permission_toast">Permisssion not granted. Can not take picture.</string>
+</resources>
